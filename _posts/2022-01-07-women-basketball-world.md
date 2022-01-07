@@ -1,10 +1,10 @@
 ---
-title: "Lo más destacado baloncesto femenino en el verano 2021"
+title: "Lo más destacado del baloncesto femenino en el verano 2021"
 author: Gisela Sanchez
 date: 2022-01-07
 ---
 
-### Lo más destacado del verano 2021
+### Lo más destacado del baloncesto femenino en el verano 2021
 
 El Eurobasket de España y Francia dejaba como grandes protagonistas a Jonquel Jones y a Bosnia-Herzegovina y a Serbia que se colgaba la medalla de oro frente a Francia.
 
