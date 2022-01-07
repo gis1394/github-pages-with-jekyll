@@ -1,3 +1,10 @@
+---
+layout: post
+title: Women Basketball World
+author: Gisela Sanchez
+
+---
+
 ### Lo más destacado del verano 2021
 
 El Eurobasket de España y Francia dejaba como grandes protagonistas a Jonquel Jones y a Bosnia-Herzegovina y a Serbia que se colgaba la medalla de oro frente a Francia.
