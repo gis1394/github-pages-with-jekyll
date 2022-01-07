@@ -2,4 +2,5 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Benvinguts al meu Blog! 
+Estic molt contenta que el visiteu. Ara us faré un breu resum del que parlarem: 
